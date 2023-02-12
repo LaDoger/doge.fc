@@ -1,2 +1,2 @@
 # doge.fc
-The BEST smart contract on TON!
+The most amazing smart contract on TON!
