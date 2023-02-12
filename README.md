@@ -5,6 +5,8 @@ The most amazing smart contract on TON!
 
 When anyone sends over 0.0069 TON to this smart contract, it will reply you with "doge", hence the most amazing smart contract.
 
+![IMG_6070](https://user-images.githubusercontent.com/60722582/218310553-0d76a7ac-a780-4167-9aeb-bcfe31508b7c.PNG)
+
 Address: `EQDOTCZcf7-0ft6k851aKTP_pecbvocbz9A0nBI8J9mRXSpm`
 
 Try it!
